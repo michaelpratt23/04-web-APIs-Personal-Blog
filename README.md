@@ -6,13 +6,17 @@ The **Personal Blog Web App** is a two-page website where users can create and v
 
 ## Table of Contents
 
+- [Live Link](#live-link)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
+
+## Live Link
+
+Check out the live version of the project here: [Personal Blog Web App](https://michaelpratt23.github.io/04-web-APIs-Personal-Blog/index.html)
 
 ## Features
 
@@ -29,24 +33,6 @@ The **Personal Blog Web App** is a two-page website where users can create and v
 - CSS3
 - JavaScript (ES6)
 - LocalStorage API
-
-## File Structure
-
-Your git clone version (if you want to do that)
-│
-├── assets/
-│ ├── css/
-│ │ ├── blog.css # Blog page styles
-│ │ ├── form.css # Landing page styles
-│ │ └── styles.css # Shared styles
-│ ├── js/
-│ │ ├── blog.js # Blog page functionality
-│ │ ├── form.js # Landing page functionality
-│ │ └── logic.js # Shared logic (localStorage, theme handling)
-│
-├── index.html # Landing page
-├── blog.html # Blog posts page
-└── README.md # Project documentation
 
 ## Getting Started
 
