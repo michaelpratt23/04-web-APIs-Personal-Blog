@@ -1,1 +1,49 @@
-
+/* Blog Posts Container */
+.posts-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .posts-container h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  /* Blog Post Styles */
+  #blogPosts article {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #blogPosts article:last-child {
+    border-bottom: none;
+  }
+  
+  #blogPosts h3 {
+    font-size: 1.5rem;
+    color: #0077cc;
+  }
+  
+  #blogPosts p {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    color: #555;
+  }
+  
+  /* Controls */
+  .controls {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+  }
+  
+  .controls button {
+    width: 48%;
+  }
